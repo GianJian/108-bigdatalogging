@@ -1,5 +1,5 @@
 # 108-bigdatalogging
-
+ˋˋˋpython
 import logging
 import os
 import sys
@@ -63,4 +63,4 @@ if __name__ == '__main__':
   log = logger(opts, 'dxscs_source.log')
   log.loginit()
   log.m_logger.info('hello,world')
-
+ˋˋˋ
